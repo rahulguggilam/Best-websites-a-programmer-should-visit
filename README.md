@@ -147,6 +147,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 💰 CryptoCurrency
+-[Blockchain working](https://andersbrownworth.com/blockchain/):If you want to understand about blokchian and its basics with a working demo this will be a great start
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
@@ -159,6 +160,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
+-[]
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
