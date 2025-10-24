@@ -958,6 +958,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
+- [Seeing Theory](https://seeing-theory.brown.edu/) : If you want to learn more about statistics.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
@@ -968,7 +969,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
-- [Seeing Theory](https://seeing-theory.brown.edu/) : If you want to learn more about statistics.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
